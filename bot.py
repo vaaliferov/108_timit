@@ -3,7 +3,7 @@ import soundfile
 import numpy as np
 import pandas as pd
 import telegram.ext
-from config import *
+from secret import *
 
 user_last_idx = {}
 df = pd.read_csv('timit/spkrinfo.csv')
