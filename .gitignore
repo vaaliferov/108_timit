@@ -1,0 +1,9 @@
+*.csv
+*.zip
+*.wav
+*.ogg
+*.npy
+timit
+secret.py
+__pycache__
+.ipynb_checkpoints
